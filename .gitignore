@@ -15,7 +15,6 @@
 target/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -127,11 +126,3 @@ local.properties
 ### Eclipse Patch ###
 # Spring Boot Tooling
 .sts4-cache/
-
-
-### gradle###
-.gradle/
-gradle-app.setting
-!gradle-wrapper.jar
-.gradletasknamecache
-**/build/
